@@ -1,0 +1,8 @@
+{
+  "name": "mumbling",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4",
+    "jquery": "^3.4.1"
+  }
+}
